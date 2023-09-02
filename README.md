@@ -1,5 +1,6 @@
 # React App README
 
+<img src='./scv.png'>
 This README provides instructions on how to set up and run the React app locally on your development environment.
 
 ## Prerequisites
